@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.nav ul { 
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: start;
+}
+
+.nav li {
+  padding: 10px;
+  align-content: space-between;
+  border-bottom: 2px solid #a8aeb6;
+  justify-items: center;
+}
+
+.nav a {
+  font-weight: bolder;
+  color: #e2e3e4;
+  text-decoration: none;
+}
+
+.nav li:hover{
+  background-color: rgba(238, 147, 10, 0.5);
+  
+}
+.main-header {
+  height: 300px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-color: #a8aeb6;
+  background-image: url("../assets/portfolio-background2.jpeg");
+  background-blend-mode: multiply;
+  background-size: cover;
+  background-position:center;
+}
+
+h1 {
+  display: inline;
+  padding: 8px;
+  background-color: #4088a9;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 400;
+  font-size: 48px;
+}
+
