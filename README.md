@@ -9,5 +9,6 @@ Input into web browser: https://bcz25.github.io/Myportfolio/
 
 ## Usage
 
-!(/Users/brettcz/bootcamp/Myportfolio/WebsiteSS.jpeg)
+![Screenshot 2024-03-14 at 8 31 31 PM](https://github.com/Bcz25/Myportfolio/assets/160162513/b99b6fb2-9570-43b2-b175-7a367dd9ef88)
+
 
